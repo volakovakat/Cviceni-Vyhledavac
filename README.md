@@ -2,7 +2,7 @@
 
 ## Zadání
 
-1. Vytvořte HTML formulář s jedním input políčkem na text a odesílacím tlačítkem.
+1. Vytvořte HTML formulář s jedním input políčkem na text s atributem `name="q"` a odesílacím tlačítkem.
 
 1. Pomocí atributu action nechte formulář odesílat data na adresu `https://www.google.com/search`.
 
