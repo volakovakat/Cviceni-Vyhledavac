@@ -1,5 +1,7 @@
 # Cvičení: Vyhledávač
 
+![Ukázka](screen.png)
+
 ## Zadání
 
 1. Vytvořte HTML formulář s jedním input políčkem na text s atributem `name="q"` a odesílacím tlačítkem.
