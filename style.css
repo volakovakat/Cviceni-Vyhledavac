@@ -1,0 +1,14 @@
+form {
+    text-align: center;
+    margin-top: 200px;
+}
+
+h1 {
+    color: #2d2e83;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+}
+
+h1::first-letter {
+    color: #e6007e;
+}
